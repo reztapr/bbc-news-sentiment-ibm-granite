@@ -6,7 +6,7 @@ Tujuan proyek ini adalah untuk mengklasifikasikan deskripsi berita menjadi dua k
 - Positive
 - Negative
 
-Dataset yang digunakan berasal dari [BBC News Dataset di Kaggle](https://www.kaggle.com/datasets/pariza/bbc-news-summary), yang berisi kumpulan berita dan deskripsinya dari berbagai kategori seperti *politics, tech, sport, business,* dan *entertainment*.
+Dataset yang digunakan berasal dari [BBC News Dataset di Kaggle](https://www.kaggle.com/datasets/gpreda/bbc-news), yang berisi kumpulan berita dan deskripsinya dari berbagai kategori seperti *politics, tech, sport, business,* dan *entertainment*.
 
 ---
 
